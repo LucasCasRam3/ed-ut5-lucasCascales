@@ -7,6 +7,7 @@ public class Ejer2 {
         int j;
         int n;
 
+        System.out.println("Comenzamos con nuestro programa");
         System.out.println("Introduce el valor de n por favor: ");
         n = scanner.nextInt();
 
